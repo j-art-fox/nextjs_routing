@@ -5,3 +5,5 @@ function PortfolioPage() {
     </div>
   );
 }
+
+export default PortfolioPage;
